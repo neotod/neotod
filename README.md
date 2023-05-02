@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software developer and Electrical Engineering student.
+I'm a Software developer and Electrical Engineering student at SBU.
+- 🔭 I’m currently working on some cool AI projects.
 - 🌱 I’m currently learning image processing and computer vision.
+- 🤔 I’m looking for help with find the essential meaning of life (sighs).
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-hossein_soltani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-soltani)
