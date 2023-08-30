@@ -1,9 +1,9 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neotod&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neotod&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-----
+-->
 
 <!--
 **neotod/neotod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 -->
 
 I'm a Software developer and Electrical Engineering student at SBU.
-- 🔭 I'm interested in ML, DL and ComputerVision and Doing Research in those areas.
+- 🔭 My current main interests are **ML, DL and Computer Vision** and I'm interested in doing Research in those areas.
 - 🌱 I’m currently learning **Generative computer vision models** and **Sequence models**.
-- 🤔 Intelligence is compression.
 - 📫 Feel free to reach me: [hosoltani42@gmail.com](mailto:hosoltani42@gmail.com)
 
-[Link text](https://website-name.com)
+![](https://komarev.com/ghpvc/?username=neotod)
