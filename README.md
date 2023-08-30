@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a Software developer and Electrical Engineering student at SBU.
-- 🔭 My current main interests are **ML, DL and Computer Vision** and I'm interested in doing Research in those areas.
+- 🔭 My current focus areas are **ML, DL and Computer Vision** and I'm interested in doing Research in those areas.
 - 🌱 I’m currently learning **Generative computer vision models** and **Sequence models**.
 - 📫 Feel free to reach me: [hosoltani42@gmail.com](mailto:hosoltani42@gmail.com)
 
