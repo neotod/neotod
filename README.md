@@ -24,5 +24,3 @@ I'm a Software developer and Electrical Engineering student at SBU.
 - 🔭 My current focus areas are **ML, DL and Computer Vision**.
 - 🌱 I'm interested in **GANs** and **Transformers** and doing Research in those areas.
 - 📫 Feel free to reach me: [hosoltani42@gmail.com](mailto:hosoltani42@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=neotod)
