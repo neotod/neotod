@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 I'm a Software developer and Electrical Engineering student at SBU.
 - 🔭 My current focus areas are **ML, DL and Computer Vision**.
-- 🌱 I'm interested in **GANs** and **Transformers** and doing Research in those areas.
+- 🌱 I'm interested in **Transformers** and **Diffusion models** and doing Research in those areas.
 - 📫 Feel free to reach me: [hosoltani42@gmail.com](mailto:hosoltani42@gmail.com)
